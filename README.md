@@ -1,6 +1,6 @@
-#Roulette tool 
+# Roulette tool 
 ## 
-<p> - right now it is only available for marvel rivals /n
+<p> - right now it is only available for marvel rivals
     - 
 
 </p>
